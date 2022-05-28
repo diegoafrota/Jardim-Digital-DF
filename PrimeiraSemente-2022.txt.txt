@@ -13,3 +13,9 @@ Talvez seja necessário utilizar para o git me reconhecer:
 
 git remote add origin endereçoDoRepositorioNoGithub
 git push -u origin master
+
+Quando alterações forem implementadas e quisermos adicionar um novo commit para o projeto, fazemos:
+git add -A
+(checa!)
+git commit -m "Comentário do respectivo commit"
+git push (para enviar para o repositório no github)

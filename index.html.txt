@@ -1,4 +1,4 @@
-<HTML><HEAD><TITLE>Frugal Physics Teaching - homepage</TITLE>
+<HTML><HEAD><TITLE>Frugal and Digital - Page</TITLE>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <META content="MSHTML 5.00.2314.1000" name=GENERATOR></HEAD>
@@ -8,18 +8,17 @@
     
     <table>
         <tr>
-            <td><H1><i>Digital Garden</i></H1></td>
+            <td><H1><i>Frugal and Digital</i></H1></td>
         </tr>
     </table>
 
     <p>
-    what about.<br>
+    What about?<br>
     <p>
     <hr>
     
     <p>
-    <li><A href="README.md">Digital Garden!</a></li>
-    <hr>
+    <li><A href="README.md">Here is my README!</li>
     
 </body>
 </html>

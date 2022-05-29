@@ -19,3 +19,6 @@ git add -A
 (checa!)
 git commit -m "Comentário do respectivo commit"
 git push (para enviar para o repositório no github)
+
+Quando for usar o repositório em outro computador:
+git clone endereçoDoRepositorioNoGithub

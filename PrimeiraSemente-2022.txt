@@ -1,4 +1,5 @@
 Olá Mundo!
+Olá mundo, 2023! Dia 04/04/2023
 
 Conjunto de comandos do git, para trabalhar com controle de versão:
 (Depois de criado o arquivo inicial) 
